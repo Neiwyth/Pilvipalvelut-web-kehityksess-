@@ -1,7 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
 theme: minima
-skin: dark
 
 header_pages:
  - index.md
